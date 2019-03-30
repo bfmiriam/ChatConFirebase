@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "400647957612",
+    "firebase_url": "https://telegram-44928.firebaseio.com",
+    "project_id": "telegram-44928",
+    "storage_bucket": "telegram-44928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400647957612:android:ef770830a68898bd",
+        "android_client_info": {
+          "package_name": "com.dam18.proyecto.telegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400647957612-6688kbn72i07mln75n0n6rs2pfcmfedi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dam18.proyecto.telegram",
+            "certificate_hash": "c516f8c5745da787187da969ce7c8d9634ad8651"
+          }
+        },
+        {
+          "client_id": "400647957612-h5kfjvckdefb4p0sl8lob16avao94q7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dam18.proyecto.telegram",
+            "certificate_hash": "2b51d2d4530493faa2bbc43abbaed3b240d1afb3"
+          }
+        },
+        {
+          "client_id": "400647957612-48dkdjlmi5dk39ts6ei8gnrd3e0ki30g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dam18.proyecto.telegram",
+            "certificate_hash": "3c7f483b15b2c37d7e01f604142c8077b0cbbf56"
+          }
+        },
+        {
+          "client_id": "400647957612-aeuqqv9jkmd7l3sg5m0djothj0taqpsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIjSRZfFD5-vcuGo3rpusWd6AZL22zTAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400647957612-aeuqqv9jkmd7l3sg5m0djothj0taqpsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
